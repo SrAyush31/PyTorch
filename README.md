@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch: Zero to GANs
+# Deep Learning with PyTorch: Zero to GANs with Jovian
 Topics:
 LESSON 1 - PyTorch Basics and Gradient Descent
          - PyTorch basics: tensors, gradients, and autograd
