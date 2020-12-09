@@ -1,0 +1,11 @@
+#Insurance cost prediction using linear regression.
+
+we're going to use information like a person's age, sex, BMI, no. of children and smoking habit to predict the price of yearly medical bills. This kind of model is useful for insurance companies to determine the yearly insurance premium for a person. The dataset for this problem is taken from Kaggle.
+
+We will create a model with the following steps:
+
+1. Download and explore the dataset
+2. Prepare the dataset for training
+3. Create a linear regression model
+4. Train the model to fit the data
+5. Make predictions using the trained model
